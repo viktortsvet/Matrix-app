@@ -1,0 +1,16 @@
+.active {
+    color: #ffffff;
+    background-color: blue;
+}
+
+.inputs {
+    display: flex;
+    margin: auto;
+    width: 650px;
+    justify-content: space-between;
+}
+
+.matrix {
+    margin: 20px auto;
+    text-align: center;
+}

@@ -1,0 +1,12 @@
+.matrixElem {
+    box-sizing: border-box;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    border: 1px solid #000000;
+    padding-top: 35px;
+}
+
+.cont {
+    padding: 10px 10px;
+}

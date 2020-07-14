@@ -1,0 +1,46 @@
+@media (max-width: 1024px) {
+    .matrixElem {
+        width: 85px;
+        height: 85px;
+    }
+}
+
+@media (max-width: 768px) {
+    .matrixElem {
+        width: 65px;
+        height: 65px;
+        padding-top: 24px;
+    }
+}
+
+@media (max-width: 600px) {
+    .inputs {
+        flex-direction: column;
+        width: 450px;
+        
+    }
+    .inputs > div {
+        margin-bottom: 10px;
+    }
+    .inputs > button {
+        margin-bottom: 10px;
+    }
+}
+
+@media (max-width: 425px) {
+    .inputs {
+        width: 370px;
+    }
+}
+
+@media (max-width: 375px) {
+    .inputs {
+        width: 340px;
+    }
+}
+
+@media (max-width: 320px) {
+    .inputs {
+        width: 260px;
+    }
+}
